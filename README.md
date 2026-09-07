@@ -82,11 +82,27 @@ node scripts/make-proverb-designs.mjs --sample     # 見本を12枚だけ
 そちらを直したら**カタログ CSV も画像も両方作り直す**こと。
 ImageMagick 7（`magick`）が要る。
 
+## 公開URL
+
+このリポジトリを公開しているのは、**Printful が印刷ファイルを公開URLでしか受け取らない**ため。
+
+```
+https://raw.githubusercontent.com/YanaseHiroki/kotowazaya-designs/main/designs/<ファイル名>
+```
+
+例: <https://raw.githubusercontent.com/YanaseHiroki/kotowazaya-designs/main/designs/PRV-01-KNR-MINT.png>
+
+Printful は取り込んだ印刷ファイルを自社のファイルライブラリに保存するので、
+**結び付けが済んだあとも公開を続ける必要があるかは要確認**（不要ならこのリポジトリは
+非公開に戻せる）。
+
 ## 次にやること
 
-1. **720枚を公開 URL に置く** — Printful の API は画像を URL で受け取るため
-2. **Printful に商品を作る** — API なら 1商品 = 1リクエスト（72バリエーション込み）で、
-   30回・約3分。商品変更は60秒に10回までの制限がある
-3. **Shopify の商品に画像を付ける** — 商品CSVには画像を入れられないので、管理画面か API で
-
-`~/git/shopify-line-ai/doc/real-store-verification-plan.md` の順路 10 がこの続き。
+1. ~~720枚を公開URLに置く~~【済】上のURL
+2. **Printful のアカウントを作り、Shopify ストア「ことわざ屋」をつなぐ**（オーナーの手作業）。
+   つないだ時点で既存の30商品・2,160バリエーションが Printful に取り込まれる
+3. **印刷ファイルをバリエーションに結び付ける** —— `link-proverb-printful.mjs`。
+   **Shopify につないだストアでは API から商品を作れない**（Printful の Products API は
+   外部プラットフォームの商品作成を意図していない）ので、取り込まれたバリエーションを
+   1つずつ更新する。2,160回・毎分120回の上限で約22分
+4. **Shopify の商品に画像を付ける** — 商品CSVには画像を入れられないので、管理画面か API で
