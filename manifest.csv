@@ -719,3 +719,603 @@ PRV-30-SHU-FDET.png,i-no-naka-no-kawazu,井の中の蛙大海を知らず,いの
 PRV-30-SHU-FDEY.png,i-no-naka-no-kawazu,井の中の蛙大海を知らず,いのなかのかわずたいかいをしらず,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-30-SHU-S-FDEY PRV-30-SHU-M-FDEY PRV-30-SHU-L-FDEY
 PRV-30-SHU-GOTT.png,i-no-naka-no-kawazu,井の中の蛙大海を知らず,いのなかのかわずたいかいをしらず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-30-SHU-S-GOTT PRV-30-SHU-M-GOTT PRV-30-SHU-L-GOTT
 PRV-30-SHU-GOTY.png,i-no-naka-no-kawazu,井の中の蛙大海を知らず,いのなかのかわずたいかいをしらず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-30-SHU-S-GOTY PRV-30-SHU-M-GOTY PRV-30-SHU-L-GOTY
+PRV-31-KNR-MINT.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-31-KNR-S-MINT PRV-31-KNR-M-MINT PRV-31-KNR-L-MINT
+PRV-31-KNR-MINY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-31-KNR-S-MINY PRV-31-KNR-M-MINY PRV-31-KNR-L-MINY
+PRV-31-KNR-FDET.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-31-KNR-S-FDET PRV-31-KNR-M-FDET PRV-31-KNR-L-FDET
+PRV-31-KNR-FDEY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-31-KNR-S-FDEY PRV-31-KNR-M-FDEY PRV-31-KNR-L-FDEY
+PRV-31-KNR-GOTT.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-31-KNR-S-GOTT PRV-31-KNR-M-GOTT PRV-31-KNR-L-GOTT
+PRV-31-KNR-GOTY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-31-KNR-S-GOTY PRV-31-KNR-M-GOTY PRV-31-KNR-L-GOTY
+PRV-31-AI-MINT.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-31-AI-S-MINT PRV-31-AI-M-MINT PRV-31-AI-L-MINT
+PRV-31-AI-MINY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-31-AI-S-MINY PRV-31-AI-M-MINY PRV-31-AI-L-MINY
+PRV-31-AI-FDET.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-31-AI-S-FDET PRV-31-AI-M-FDET PRV-31-AI-L-FDET
+PRV-31-AI-FDEY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-31-AI-S-FDEY PRV-31-AI-M-FDEY PRV-31-AI-L-FDEY
+PRV-31-AI-GOTT.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-31-AI-S-GOTT PRV-31-AI-M-GOTT PRV-31-AI-L-GOTT
+PRV-31-AI-GOTY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-31-AI-S-GOTY PRV-31-AI-M-GOTY PRV-31-AI-L-GOTY
+PRV-31-SUMI-MINT.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-31-SUMI-S-MINT PRV-31-SUMI-M-MINT PRV-31-SUMI-L-MINT
+PRV-31-SUMI-MINY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-31-SUMI-S-MINY PRV-31-SUMI-M-MINY PRV-31-SUMI-L-MINY
+PRV-31-SUMI-FDET.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-31-SUMI-S-FDET PRV-31-SUMI-M-FDET PRV-31-SUMI-L-FDET
+PRV-31-SUMI-FDEY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-31-SUMI-S-FDEY PRV-31-SUMI-M-FDEY PRV-31-SUMI-L-FDEY
+PRV-31-SUMI-GOTT.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-31-SUMI-S-GOTT PRV-31-SUMI-M-GOTT PRV-31-SUMI-L-GOTT
+PRV-31-SUMI-GOTY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-31-SUMI-S-GOTY PRV-31-SUMI-M-GOTY PRV-31-SUMI-L-GOTY
+PRV-31-SHU-MINT.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-31-SHU-S-MINT PRV-31-SHU-M-MINT PRV-31-SHU-L-MINT
+PRV-31-SHU-MINY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-31-SHU-S-MINY PRV-31-SHU-M-MINY PRV-31-SHU-L-MINY
+PRV-31-SHU-FDET.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-31-SHU-S-FDET PRV-31-SHU-M-FDET PRV-31-SHU-L-FDET
+PRV-31-SHU-FDEY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-31-SHU-S-FDEY PRV-31-SHU-M-FDEY PRV-31-SHU-L-FDEY
+PRV-31-SHU-GOTT.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-31-SHU-S-GOTT PRV-31-SHU-M-GOTT PRV-31-SHU-L-GOTT
+PRV-31-SHU-GOTY.png,minoru-hodo-koube-wo-tareru,実るほど頭を垂れる稲穂かな,みのるほどこうべをたれるいなほかな,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-31-SHU-S-GOTY PRV-31-SHU-M-GOTY PRV-31-SHU-L-GOTY
+PRV-32-KNR-MINT.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-32-KNR-S-MINT PRV-32-KNR-M-MINT PRV-32-KNR-L-MINT
+PRV-32-KNR-MINY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-32-KNR-S-MINY PRV-32-KNR-M-MINY PRV-32-KNR-L-MINY
+PRV-32-KNR-FDET.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-32-KNR-S-FDET PRV-32-KNR-M-FDET PRV-32-KNR-L-FDET
+PRV-32-KNR-FDEY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-32-KNR-S-FDEY PRV-32-KNR-M-FDEY PRV-32-KNR-L-FDEY
+PRV-32-KNR-GOTT.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-32-KNR-S-GOTT PRV-32-KNR-M-GOTT PRV-32-KNR-L-GOTT
+PRV-32-KNR-GOTY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-32-KNR-S-GOTY PRV-32-KNR-M-GOTY PRV-32-KNR-L-GOTY
+PRV-32-AI-MINT.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-32-AI-S-MINT PRV-32-AI-M-MINT PRV-32-AI-L-MINT
+PRV-32-AI-MINY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-32-AI-S-MINY PRV-32-AI-M-MINY PRV-32-AI-L-MINY
+PRV-32-AI-FDET.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-32-AI-S-FDET PRV-32-AI-M-FDET PRV-32-AI-L-FDET
+PRV-32-AI-FDEY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-32-AI-S-FDEY PRV-32-AI-M-FDEY PRV-32-AI-L-FDEY
+PRV-32-AI-GOTT.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-32-AI-S-GOTT PRV-32-AI-M-GOTT PRV-32-AI-L-GOTT
+PRV-32-AI-GOTY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-32-AI-S-GOTY PRV-32-AI-M-GOTY PRV-32-AI-L-GOTY
+PRV-32-SUMI-MINT.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-32-SUMI-S-MINT PRV-32-SUMI-M-MINT PRV-32-SUMI-L-MINT
+PRV-32-SUMI-MINY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-32-SUMI-S-MINY PRV-32-SUMI-M-MINY PRV-32-SUMI-L-MINY
+PRV-32-SUMI-FDET.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-32-SUMI-S-FDET PRV-32-SUMI-M-FDET PRV-32-SUMI-L-FDET
+PRV-32-SUMI-FDEY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-32-SUMI-S-FDEY PRV-32-SUMI-M-FDEY PRV-32-SUMI-L-FDEY
+PRV-32-SUMI-GOTT.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-32-SUMI-S-GOTT PRV-32-SUMI-M-GOTT PRV-32-SUMI-L-GOTT
+PRV-32-SUMI-GOTY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-32-SUMI-S-GOTY PRV-32-SUMI-M-GOTY PRV-32-SUMI-L-GOTY
+PRV-32-SHU-MINT.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-32-SHU-S-MINT PRV-32-SHU-M-MINT PRV-32-SHU-L-MINT
+PRV-32-SHU-MINY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-32-SHU-S-MINY PRV-32-SHU-M-MINY PRV-32-SHU-L-MINY
+PRV-32-SHU-FDET.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-32-SHU-S-FDET PRV-32-SHU-M-FDET PRV-32-SHU-L-FDET
+PRV-32-SHU-FDEY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-32-SHU-S-FDEY PRV-32-SHU-M-FDEY PRV-32-SHU-L-FDEY
+PRV-32-SHU-GOTT.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-32-SHU-S-GOTT PRV-32-SHU-M-GOTT PRV-32-SHU-L-GOTT
+PRV-32-SHU-GOTY.png,nou-aru-taka-wa-tsume-wo-kakusu,能ある鷹は爪を隠す,のうあるたかはつめをかくす,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-32-SHU-S-GOTY PRV-32-SHU-M-GOTY PRV-32-SHU-L-GOTY
+PRV-33-KNR-MINT.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-33-KNR-S-MINT PRV-33-KNR-M-MINT PRV-33-KNR-L-MINT
+PRV-33-KNR-MINY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-33-KNR-S-MINY PRV-33-KNR-M-MINY PRV-33-KNR-L-MINY
+PRV-33-KNR-FDET.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-33-KNR-S-FDET PRV-33-KNR-M-FDET PRV-33-KNR-L-FDET
+PRV-33-KNR-FDEY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-33-KNR-S-FDEY PRV-33-KNR-M-FDEY PRV-33-KNR-L-FDEY
+PRV-33-KNR-GOTT.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-33-KNR-S-GOTT PRV-33-KNR-M-GOTT PRV-33-KNR-L-GOTT
+PRV-33-KNR-GOTY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-33-KNR-S-GOTY PRV-33-KNR-M-GOTY PRV-33-KNR-L-GOTY
+PRV-33-AI-MINT.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-33-AI-S-MINT PRV-33-AI-M-MINT PRV-33-AI-L-MINT
+PRV-33-AI-MINY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-33-AI-S-MINY PRV-33-AI-M-MINY PRV-33-AI-L-MINY
+PRV-33-AI-FDET.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-33-AI-S-FDET PRV-33-AI-M-FDET PRV-33-AI-L-FDET
+PRV-33-AI-FDEY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-33-AI-S-FDEY PRV-33-AI-M-FDEY PRV-33-AI-L-FDEY
+PRV-33-AI-GOTT.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-33-AI-S-GOTT PRV-33-AI-M-GOTT PRV-33-AI-L-GOTT
+PRV-33-AI-GOTY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-33-AI-S-GOTY PRV-33-AI-M-GOTY PRV-33-AI-L-GOTY
+PRV-33-SUMI-MINT.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-33-SUMI-S-MINT PRV-33-SUMI-M-MINT PRV-33-SUMI-L-MINT
+PRV-33-SUMI-MINY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-33-SUMI-S-MINY PRV-33-SUMI-M-MINY PRV-33-SUMI-L-MINY
+PRV-33-SUMI-FDET.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-33-SUMI-S-FDET PRV-33-SUMI-M-FDET PRV-33-SUMI-L-FDET
+PRV-33-SUMI-FDEY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-33-SUMI-S-FDEY PRV-33-SUMI-M-FDEY PRV-33-SUMI-L-FDEY
+PRV-33-SUMI-GOTT.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-33-SUMI-S-GOTT PRV-33-SUMI-M-GOTT PRV-33-SUMI-L-GOTT
+PRV-33-SUMI-GOTY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-33-SUMI-S-GOTY PRV-33-SUMI-M-GOTY PRV-33-SUMI-L-GOTY
+PRV-33-SHU-MINT.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-33-SHU-S-MINT PRV-33-SHU-M-MINT PRV-33-SHU-L-MINT
+PRV-33-SHU-MINY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-33-SHU-S-MINY PRV-33-SHU-M-MINY PRV-33-SHU-L-MINY
+PRV-33-SHU-FDET.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-33-SHU-S-FDET PRV-33-SHU-M-FDET PRV-33-SHU-L-FDET
+PRV-33-SHU-FDEY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-33-SHU-S-FDEY PRV-33-SHU-M-FDEY PRV-33-SHU-L-FDEY
+PRV-33-SHU-GOTT.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-33-SHU-S-GOTT PRV-33-SHU-M-GOTT PRV-33-SHU-L-GOTT
+PRV-33-SHU-GOTY.png,ogoru-heike-wa-hisashikarazu,驕る平家は久しからず,おごるへいけはひさしからず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-33-SHU-S-GOTY PRV-33-SHU-M-GOTY PRV-33-SHU-L-GOTY
+PRV-34-KNR-MINT.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-34-KNR-S-MINT PRV-34-KNR-M-MINT PRV-34-KNR-L-MINT
+PRV-34-KNR-MINY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-34-KNR-S-MINY PRV-34-KNR-M-MINY PRV-34-KNR-L-MINY
+PRV-34-KNR-FDET.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-34-KNR-S-FDET PRV-34-KNR-M-FDET PRV-34-KNR-L-FDET
+PRV-34-KNR-FDEY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-34-KNR-S-FDEY PRV-34-KNR-M-FDEY PRV-34-KNR-L-FDEY
+PRV-34-KNR-GOTT.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-34-KNR-S-GOTT PRV-34-KNR-M-GOTT PRV-34-KNR-L-GOTT
+PRV-34-KNR-GOTY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-34-KNR-S-GOTY PRV-34-KNR-M-GOTY PRV-34-KNR-L-GOTY
+PRV-34-AI-MINT.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-34-AI-S-MINT PRV-34-AI-M-MINT PRV-34-AI-L-MINT
+PRV-34-AI-MINY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-34-AI-S-MINY PRV-34-AI-M-MINY PRV-34-AI-L-MINY
+PRV-34-AI-FDET.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-34-AI-S-FDET PRV-34-AI-M-FDET PRV-34-AI-L-FDET
+PRV-34-AI-FDEY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-34-AI-S-FDEY PRV-34-AI-M-FDEY PRV-34-AI-L-FDEY
+PRV-34-AI-GOTT.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-34-AI-S-GOTT PRV-34-AI-M-GOTT PRV-34-AI-L-GOTT
+PRV-34-AI-GOTY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-34-AI-S-GOTY PRV-34-AI-M-GOTY PRV-34-AI-L-GOTY
+PRV-34-SUMI-MINT.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-34-SUMI-S-MINT PRV-34-SUMI-M-MINT PRV-34-SUMI-L-MINT
+PRV-34-SUMI-MINY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-34-SUMI-S-MINY PRV-34-SUMI-M-MINY PRV-34-SUMI-L-MINY
+PRV-34-SUMI-FDET.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-34-SUMI-S-FDET PRV-34-SUMI-M-FDET PRV-34-SUMI-L-FDET
+PRV-34-SUMI-FDEY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-34-SUMI-S-FDEY PRV-34-SUMI-M-FDEY PRV-34-SUMI-L-FDEY
+PRV-34-SUMI-GOTT.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-34-SUMI-S-GOTT PRV-34-SUMI-M-GOTT PRV-34-SUMI-L-GOTT
+PRV-34-SUMI-GOTY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-34-SUMI-S-GOTY PRV-34-SUMI-M-GOTY PRV-34-SUMI-L-GOTY
+PRV-34-SHU-MINT.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-34-SHU-S-MINT PRV-34-SHU-M-MINT PRV-34-SHU-L-MINT
+PRV-34-SHU-MINY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-34-SHU-S-MINY PRV-34-SHU-M-MINY PRV-34-SHU-L-MINY
+PRV-34-SHU-FDET.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-34-SHU-S-FDET PRV-34-SHU-M-FDET PRV-34-SHU-L-FDET
+PRV-34-SHU-FDEY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-34-SHU-S-FDEY PRV-34-SHU-M-FDEY PRV-34-SHU-L-FDEY
+PRV-34-SHU-GOTT.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-34-SHU-S-GOTT PRV-34-SHU-M-GOTT PRV-34-SHU-L-GOTT
+PRV-34-SHU-GOTY.png,tenmou-kaikai,天網恢恢疎にして漏らさず,てんもうかいかいそにしてもらさず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-34-SHU-S-GOTY PRV-34-SHU-M-GOTY PRV-34-SHU-L-GOTY
+PRV-35-KNR-MINT.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-35-KNR-S-MINT PRV-35-KNR-M-MINT PRV-35-KNR-L-MINT
+PRV-35-KNR-MINY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-35-KNR-S-MINY PRV-35-KNR-M-MINY PRV-35-KNR-L-MINY
+PRV-35-KNR-FDET.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-35-KNR-S-FDET PRV-35-KNR-M-FDET PRV-35-KNR-L-FDET
+PRV-35-KNR-FDEY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-35-KNR-S-FDEY PRV-35-KNR-M-FDEY PRV-35-KNR-L-FDEY
+PRV-35-KNR-GOTT.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-35-KNR-S-GOTT PRV-35-KNR-M-GOTT PRV-35-KNR-L-GOTT
+PRV-35-KNR-GOTY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-35-KNR-S-GOTY PRV-35-KNR-M-GOTY PRV-35-KNR-L-GOTY
+PRV-35-AI-MINT.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-35-AI-S-MINT PRV-35-AI-M-MINT PRV-35-AI-L-MINT
+PRV-35-AI-MINY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-35-AI-S-MINY PRV-35-AI-M-MINY PRV-35-AI-L-MINY
+PRV-35-AI-FDET.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-35-AI-S-FDET PRV-35-AI-M-FDET PRV-35-AI-L-FDET
+PRV-35-AI-FDEY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-35-AI-S-FDEY PRV-35-AI-M-FDEY PRV-35-AI-L-FDEY
+PRV-35-AI-GOTT.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-35-AI-S-GOTT PRV-35-AI-M-GOTT PRV-35-AI-L-GOTT
+PRV-35-AI-GOTY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-35-AI-S-GOTY PRV-35-AI-M-GOTY PRV-35-AI-L-GOTY
+PRV-35-SUMI-MINT.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-35-SUMI-S-MINT PRV-35-SUMI-M-MINT PRV-35-SUMI-L-MINT
+PRV-35-SUMI-MINY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-35-SUMI-S-MINY PRV-35-SUMI-M-MINY PRV-35-SUMI-L-MINY
+PRV-35-SUMI-FDET.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-35-SUMI-S-FDET PRV-35-SUMI-M-FDET PRV-35-SUMI-L-FDET
+PRV-35-SUMI-FDEY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-35-SUMI-S-FDEY PRV-35-SUMI-M-FDEY PRV-35-SUMI-L-FDEY
+PRV-35-SUMI-GOTT.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-35-SUMI-S-GOTT PRV-35-SUMI-M-GOTT PRV-35-SUMI-L-GOTT
+PRV-35-SUMI-GOTY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-35-SUMI-S-GOTY PRV-35-SUMI-M-GOTY PRV-35-SUMI-L-GOTY
+PRV-35-SHU-MINT.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-35-SHU-S-MINT PRV-35-SHU-M-MINT PRV-35-SHU-L-MINT
+PRV-35-SHU-MINY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-35-SHU-S-MINY PRV-35-SHU-M-MINY PRV-35-SHU-L-MINY
+PRV-35-SHU-FDET.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-35-SHU-S-FDET PRV-35-SHU-M-FDET PRV-35-SHU-L-FDET
+PRV-35-SHU-FDEY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-35-SHU-S-FDEY PRV-35-SHU-M-FDEY PRV-35-SHU-L-FDEY
+PRV-35-SHU-GOTT.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-35-SHU-S-GOTT PRV-35-SHU-M-GOTT PRV-35-SHU-L-GOTT
+PRV-35-SHU-GOTY.png,ten-shiru-chi-shiru,天知る地知る我知る人知る,てんしるちしるわれしるひとしる,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-35-SHU-S-GOTY PRV-35-SHU-M-GOTY PRV-35-SHU-L-GOTY
+PRV-36-KNR-MINT.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-36-KNR-S-MINT PRV-36-KNR-M-MINT PRV-36-KNR-L-MINT
+PRV-36-KNR-MINY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-36-KNR-S-MINY PRV-36-KNR-M-MINY PRV-36-KNR-L-MINY
+PRV-36-KNR-FDET.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-36-KNR-S-FDET PRV-36-KNR-M-FDET PRV-36-KNR-L-FDET
+PRV-36-KNR-FDEY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-36-KNR-S-FDEY PRV-36-KNR-M-FDEY PRV-36-KNR-L-FDEY
+PRV-36-KNR-GOTT.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-36-KNR-S-GOTT PRV-36-KNR-M-GOTT PRV-36-KNR-L-GOTT
+PRV-36-KNR-GOTY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-36-KNR-S-GOTY PRV-36-KNR-M-GOTY PRV-36-KNR-L-GOTY
+PRV-36-AI-MINT.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-36-AI-S-MINT PRV-36-AI-M-MINT PRV-36-AI-L-MINT
+PRV-36-AI-MINY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-36-AI-S-MINY PRV-36-AI-M-MINY PRV-36-AI-L-MINY
+PRV-36-AI-FDET.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-36-AI-S-FDET PRV-36-AI-M-FDET PRV-36-AI-L-FDET
+PRV-36-AI-FDEY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-36-AI-S-FDEY PRV-36-AI-M-FDEY PRV-36-AI-L-FDEY
+PRV-36-AI-GOTT.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-36-AI-S-GOTT PRV-36-AI-M-GOTT PRV-36-AI-L-GOTT
+PRV-36-AI-GOTY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-36-AI-S-GOTY PRV-36-AI-M-GOTY PRV-36-AI-L-GOTY
+PRV-36-SUMI-MINT.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-36-SUMI-S-MINT PRV-36-SUMI-M-MINT PRV-36-SUMI-L-MINT
+PRV-36-SUMI-MINY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-36-SUMI-S-MINY PRV-36-SUMI-M-MINY PRV-36-SUMI-L-MINY
+PRV-36-SUMI-FDET.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-36-SUMI-S-FDET PRV-36-SUMI-M-FDET PRV-36-SUMI-L-FDET
+PRV-36-SUMI-FDEY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-36-SUMI-S-FDEY PRV-36-SUMI-M-FDEY PRV-36-SUMI-L-FDEY
+PRV-36-SUMI-GOTT.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-36-SUMI-S-GOTT PRV-36-SUMI-M-GOTT PRV-36-SUMI-L-GOTT
+PRV-36-SUMI-GOTY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-36-SUMI-S-GOTY PRV-36-SUMI-M-GOTY PRV-36-SUMI-L-GOTY
+PRV-36-SHU-MINT.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-36-SHU-S-MINT PRV-36-SHU-M-MINT PRV-36-SHU-L-MINT
+PRV-36-SHU-MINY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-36-SHU-S-MINY PRV-36-SHU-M-MINY PRV-36-SHU-L-MINY
+PRV-36-SHU-FDET.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-36-SHU-S-FDET PRV-36-SHU-M-FDET PRV-36-SHU-L-FDET
+PRV-36-SHU-FDEY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-36-SHU-S-FDEY PRV-36-SHU-M-FDEY PRV-36-SHU-L-FDEY
+PRV-36-SHU-GOTT.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-36-SHU-S-GOTT PRV-36-SHU-M-GOTT PRV-36-SHU-L-GOTT
+PRV-36-SHU-GOTY.png,intoku-areba-youhou-ari,陰徳あれば陽報あり,いんとくあればようほうあり,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-36-SHU-S-GOTY PRV-36-SHU-M-GOTY PRV-36-SHU-L-GOTY
+PRV-37-KNR-MINT.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-37-KNR-S-MINT PRV-37-KNR-M-MINT PRV-37-KNR-L-MINT
+PRV-37-KNR-MINY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-37-KNR-S-MINY PRV-37-KNR-M-MINY PRV-37-KNR-L-MINY
+PRV-37-KNR-FDET.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-37-KNR-S-FDET PRV-37-KNR-M-FDET PRV-37-KNR-L-FDET
+PRV-37-KNR-FDEY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-37-KNR-S-FDEY PRV-37-KNR-M-FDEY PRV-37-KNR-L-FDEY
+PRV-37-KNR-GOTT.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-37-KNR-S-GOTT PRV-37-KNR-M-GOTT PRV-37-KNR-L-GOTT
+PRV-37-KNR-GOTY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-37-KNR-S-GOTY PRV-37-KNR-M-GOTY PRV-37-KNR-L-GOTY
+PRV-37-AI-MINT.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-37-AI-S-MINT PRV-37-AI-M-MINT PRV-37-AI-L-MINT
+PRV-37-AI-MINY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-37-AI-S-MINY PRV-37-AI-M-MINY PRV-37-AI-L-MINY
+PRV-37-AI-FDET.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-37-AI-S-FDET PRV-37-AI-M-FDET PRV-37-AI-L-FDET
+PRV-37-AI-FDEY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-37-AI-S-FDEY PRV-37-AI-M-FDEY PRV-37-AI-L-FDEY
+PRV-37-AI-GOTT.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-37-AI-S-GOTT PRV-37-AI-M-GOTT PRV-37-AI-L-GOTT
+PRV-37-AI-GOTY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-37-AI-S-GOTY PRV-37-AI-M-GOTY PRV-37-AI-L-GOTY
+PRV-37-SUMI-MINT.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-37-SUMI-S-MINT PRV-37-SUMI-M-MINT PRV-37-SUMI-L-MINT
+PRV-37-SUMI-MINY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-37-SUMI-S-MINY PRV-37-SUMI-M-MINY PRV-37-SUMI-L-MINY
+PRV-37-SUMI-FDET.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-37-SUMI-S-FDET PRV-37-SUMI-M-FDET PRV-37-SUMI-L-FDET
+PRV-37-SUMI-FDEY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-37-SUMI-S-FDEY PRV-37-SUMI-M-FDEY PRV-37-SUMI-L-FDEY
+PRV-37-SUMI-GOTT.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-37-SUMI-S-GOTT PRV-37-SUMI-M-GOTT PRV-37-SUMI-L-GOTT
+PRV-37-SUMI-GOTY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-37-SUMI-S-GOTY PRV-37-SUMI-M-GOTY PRV-37-SUMI-L-GOTY
+PRV-37-SHU-MINT.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-37-SHU-S-MINT PRV-37-SHU-M-MINT PRV-37-SHU-L-MINT
+PRV-37-SHU-MINY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-37-SHU-S-MINY PRV-37-SHU-M-MINY PRV-37-SHU-L-MINY
+PRV-37-SHU-FDET.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-37-SHU-S-FDET PRV-37-SHU-M-FDET PRV-37-SHU-L-FDET
+PRV-37-SHU-FDEY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-37-SHU-S-FDEY PRV-37-SHU-M-FDEY PRV-37-SHU-L-FDEY
+PRV-37-SHU-GOTT.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-37-SHU-S-GOTT PRV-37-SHU-M-GOTT PRV-37-SHU-L-GOTT
+PRV-37-SHU-GOTY.png,nasake-wa-hito-no-tame-narazu,情けは人の為ならず,なさけはひとのためならず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-37-SHU-S-GOTY PRV-37-SHU-M-GOTY PRV-37-SHU-L-GOTY
+PRV-38-KNR-MINT.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-38-KNR-S-MINT PRV-38-KNR-M-MINT PRV-38-KNR-L-MINT
+PRV-38-KNR-MINY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-38-KNR-S-MINY PRV-38-KNR-M-MINY PRV-38-KNR-L-MINY
+PRV-38-KNR-FDET.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-38-KNR-S-FDET PRV-38-KNR-M-FDET PRV-38-KNR-L-FDET
+PRV-38-KNR-FDEY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-38-KNR-S-FDEY PRV-38-KNR-M-FDEY PRV-38-KNR-L-FDEY
+PRV-38-KNR-GOTT.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-38-KNR-S-GOTT PRV-38-KNR-M-GOTT PRV-38-KNR-L-GOTT
+PRV-38-KNR-GOTY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-38-KNR-S-GOTY PRV-38-KNR-M-GOTY PRV-38-KNR-L-GOTY
+PRV-38-AI-MINT.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-38-AI-S-MINT PRV-38-AI-M-MINT PRV-38-AI-L-MINT
+PRV-38-AI-MINY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-38-AI-S-MINY PRV-38-AI-M-MINY PRV-38-AI-L-MINY
+PRV-38-AI-FDET.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-38-AI-S-FDET PRV-38-AI-M-FDET PRV-38-AI-L-FDET
+PRV-38-AI-FDEY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-38-AI-S-FDEY PRV-38-AI-M-FDEY PRV-38-AI-L-FDEY
+PRV-38-AI-GOTT.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-38-AI-S-GOTT PRV-38-AI-M-GOTT PRV-38-AI-L-GOTT
+PRV-38-AI-GOTY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-38-AI-S-GOTY PRV-38-AI-M-GOTY PRV-38-AI-L-GOTY
+PRV-38-SUMI-MINT.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-38-SUMI-S-MINT PRV-38-SUMI-M-MINT PRV-38-SUMI-L-MINT
+PRV-38-SUMI-MINY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-38-SUMI-S-MINY PRV-38-SUMI-M-MINY PRV-38-SUMI-L-MINY
+PRV-38-SUMI-FDET.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-38-SUMI-S-FDET PRV-38-SUMI-M-FDET PRV-38-SUMI-L-FDET
+PRV-38-SUMI-FDEY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-38-SUMI-S-FDEY PRV-38-SUMI-M-FDEY PRV-38-SUMI-L-FDEY
+PRV-38-SUMI-GOTT.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-38-SUMI-S-GOTT PRV-38-SUMI-M-GOTT PRV-38-SUMI-L-GOTT
+PRV-38-SUMI-GOTY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-38-SUMI-S-GOTY PRV-38-SUMI-M-GOTY PRV-38-SUMI-L-GOTY
+PRV-38-SHU-MINT.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-38-SHU-S-MINT PRV-38-SHU-M-MINT PRV-38-SHU-L-MINT
+PRV-38-SHU-MINY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-38-SHU-S-MINY PRV-38-SHU-M-MINY PRV-38-SHU-L-MINY
+PRV-38-SHU-FDET.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-38-SHU-S-FDET PRV-38-SHU-M-FDET PRV-38-SHU-L-FDET
+PRV-38-SHU-FDEY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-38-SHU-S-FDEY PRV-38-SHU-M-FDEY PRV-38-SHU-L-FDEY
+PRV-38-SHU-GOTT.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-38-SHU-S-GOTT PRV-38-SHU-M-GOTT PRV-38-SHU-L-GOTT
+PRV-38-SHU-GOTY.png,sannin-yoreba-monju-no-chie,三人寄れば文殊の知恵,さんにんよればもんじゅのちえ,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-38-SHU-S-GOTY PRV-38-SHU-M-GOTY PRV-38-SHU-L-GOTY
+PRV-39-KNR-MINT.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-39-KNR-S-MINT PRV-39-KNR-M-MINT PRV-39-KNR-L-MINT
+PRV-39-KNR-MINY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-39-KNR-S-MINY PRV-39-KNR-M-MINY PRV-39-KNR-L-MINY
+PRV-39-KNR-FDET.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-39-KNR-S-FDET PRV-39-KNR-M-FDET PRV-39-KNR-L-FDET
+PRV-39-KNR-FDEY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-39-KNR-S-FDEY PRV-39-KNR-M-FDEY PRV-39-KNR-L-FDEY
+PRV-39-KNR-GOTT.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-39-KNR-S-GOTT PRV-39-KNR-M-GOTT PRV-39-KNR-L-GOTT
+PRV-39-KNR-GOTY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-39-KNR-S-GOTY PRV-39-KNR-M-GOTY PRV-39-KNR-L-GOTY
+PRV-39-AI-MINT.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-39-AI-S-MINT PRV-39-AI-M-MINT PRV-39-AI-L-MINT
+PRV-39-AI-MINY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-39-AI-S-MINY PRV-39-AI-M-MINY PRV-39-AI-L-MINY
+PRV-39-AI-FDET.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-39-AI-S-FDET PRV-39-AI-M-FDET PRV-39-AI-L-FDET
+PRV-39-AI-FDEY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-39-AI-S-FDEY PRV-39-AI-M-FDEY PRV-39-AI-L-FDEY
+PRV-39-AI-GOTT.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-39-AI-S-GOTT PRV-39-AI-M-GOTT PRV-39-AI-L-GOTT
+PRV-39-AI-GOTY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-39-AI-S-GOTY PRV-39-AI-M-GOTY PRV-39-AI-L-GOTY
+PRV-39-SUMI-MINT.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-39-SUMI-S-MINT PRV-39-SUMI-M-MINT PRV-39-SUMI-L-MINT
+PRV-39-SUMI-MINY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-39-SUMI-S-MINY PRV-39-SUMI-M-MINY PRV-39-SUMI-L-MINY
+PRV-39-SUMI-FDET.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-39-SUMI-S-FDET PRV-39-SUMI-M-FDET PRV-39-SUMI-L-FDET
+PRV-39-SUMI-FDEY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-39-SUMI-S-FDEY PRV-39-SUMI-M-FDEY PRV-39-SUMI-L-FDEY
+PRV-39-SUMI-GOTT.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-39-SUMI-S-GOTT PRV-39-SUMI-M-GOTT PRV-39-SUMI-L-GOTT
+PRV-39-SUMI-GOTY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-39-SUMI-S-GOTY PRV-39-SUMI-M-GOTY PRV-39-SUMI-L-GOTY
+PRV-39-SHU-MINT.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-39-SHU-S-MINT PRV-39-SHU-M-MINT PRV-39-SHU-L-MINT
+PRV-39-SHU-MINY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-39-SHU-S-MINY PRV-39-SHU-M-MINY PRV-39-SHU-L-MINY
+PRV-39-SHU-FDET.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-39-SHU-S-FDET PRV-39-SHU-M-FDET PRV-39-SHU-L-FDET
+PRV-39-SHU-FDEY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-39-SHU-S-FDEY PRV-39-SHU-M-FDEY PRV-39-SHU-L-FDEY
+PRV-39-SHU-GOTT.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-39-SHU-S-GOTT PRV-39-SHU-M-GOTT PRV-39-SHU-L-GOTT
+PRV-39-SHU-GOTY.png,wa-wo-motte-toutoshi-to-nasu,和を以て貴しと為す,わをもってとうとしとなす,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-39-SHU-S-GOTY PRV-39-SHU-M-GOTY PRV-39-SHU-L-GOTY
+PRV-40-KNR-MINT.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-40-KNR-S-MINT PRV-40-KNR-M-MINT PRV-40-KNR-L-MINT
+PRV-40-KNR-MINY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-40-KNR-S-MINY PRV-40-KNR-M-MINY PRV-40-KNR-L-MINY
+PRV-40-KNR-FDET.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-40-KNR-S-FDET PRV-40-KNR-M-FDET PRV-40-KNR-L-FDET
+PRV-40-KNR-FDEY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-40-KNR-S-FDEY PRV-40-KNR-M-FDEY PRV-40-KNR-L-FDEY
+PRV-40-KNR-GOTT.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-40-KNR-S-GOTT PRV-40-KNR-M-GOTT PRV-40-KNR-L-GOTT
+PRV-40-KNR-GOTY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-40-KNR-S-GOTY PRV-40-KNR-M-GOTY PRV-40-KNR-L-GOTY
+PRV-40-AI-MINT.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-40-AI-S-MINT PRV-40-AI-M-MINT PRV-40-AI-L-MINT
+PRV-40-AI-MINY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-40-AI-S-MINY PRV-40-AI-M-MINY PRV-40-AI-L-MINY
+PRV-40-AI-FDET.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-40-AI-S-FDET PRV-40-AI-M-FDET PRV-40-AI-L-FDET
+PRV-40-AI-FDEY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-40-AI-S-FDEY PRV-40-AI-M-FDEY PRV-40-AI-L-FDEY
+PRV-40-AI-GOTT.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-40-AI-S-GOTT PRV-40-AI-M-GOTT PRV-40-AI-L-GOTT
+PRV-40-AI-GOTY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-40-AI-S-GOTY PRV-40-AI-M-GOTY PRV-40-AI-L-GOTY
+PRV-40-SUMI-MINT.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-40-SUMI-S-MINT PRV-40-SUMI-M-MINT PRV-40-SUMI-L-MINT
+PRV-40-SUMI-MINY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-40-SUMI-S-MINY PRV-40-SUMI-M-MINY PRV-40-SUMI-L-MINY
+PRV-40-SUMI-FDET.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-40-SUMI-S-FDET PRV-40-SUMI-M-FDET PRV-40-SUMI-L-FDET
+PRV-40-SUMI-FDEY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-40-SUMI-S-FDEY PRV-40-SUMI-M-FDEY PRV-40-SUMI-L-FDEY
+PRV-40-SUMI-GOTT.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-40-SUMI-S-GOTT PRV-40-SUMI-M-GOTT PRV-40-SUMI-L-GOTT
+PRV-40-SUMI-GOTY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-40-SUMI-S-GOTY PRV-40-SUMI-M-GOTY PRV-40-SUMI-L-GOTY
+PRV-40-SHU-MINT.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-40-SHU-S-MINT PRV-40-SHU-M-MINT PRV-40-SHU-L-MINT
+PRV-40-SHU-MINY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-40-SHU-S-MINY PRV-40-SHU-M-MINY PRV-40-SHU-L-MINY
+PRV-40-SHU-FDET.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-40-SHU-S-FDET PRV-40-SHU-M-FDET PRV-40-SHU-L-FDET
+PRV-40-SHU-FDEY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-40-SHU-S-FDEY PRV-40-SHU-M-FDEY PRV-40-SHU-L-FDEY
+PRV-40-SHU-GOTT.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-40-SHU-S-GOTT PRV-40-SHU-M-GOTT PRV-40-SHU-L-GOTT
+PRV-40-SHU-GOTY.png,kannan-nanji-wo-tama-ni-su,艱難汝を玉にす,かんなんなんじをたまにす,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-40-SHU-S-GOTY PRV-40-SHU-M-GOTY PRV-40-SHU-L-GOTY
+PRV-41-KNR-MINT.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-41-KNR-S-MINT PRV-41-KNR-M-MINT PRV-41-KNR-L-MINT
+PRV-41-KNR-MINY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-41-KNR-S-MINY PRV-41-KNR-M-MINY PRV-41-KNR-L-MINY
+PRV-41-KNR-FDET.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-41-KNR-S-FDET PRV-41-KNR-M-FDET PRV-41-KNR-L-FDET
+PRV-41-KNR-FDEY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-41-KNR-S-FDEY PRV-41-KNR-M-FDEY PRV-41-KNR-L-FDEY
+PRV-41-KNR-GOTT.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-41-KNR-S-GOTT PRV-41-KNR-M-GOTT PRV-41-KNR-L-GOTT
+PRV-41-KNR-GOTY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-41-KNR-S-GOTY PRV-41-KNR-M-GOTY PRV-41-KNR-L-GOTY
+PRV-41-AI-MINT.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-41-AI-S-MINT PRV-41-AI-M-MINT PRV-41-AI-L-MINT
+PRV-41-AI-MINY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-41-AI-S-MINY PRV-41-AI-M-MINY PRV-41-AI-L-MINY
+PRV-41-AI-FDET.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-41-AI-S-FDET PRV-41-AI-M-FDET PRV-41-AI-L-FDET
+PRV-41-AI-FDEY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-41-AI-S-FDEY PRV-41-AI-M-FDEY PRV-41-AI-L-FDEY
+PRV-41-AI-GOTT.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-41-AI-S-GOTT PRV-41-AI-M-GOTT PRV-41-AI-L-GOTT
+PRV-41-AI-GOTY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-41-AI-S-GOTY PRV-41-AI-M-GOTY PRV-41-AI-L-GOTY
+PRV-41-SUMI-MINT.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-41-SUMI-S-MINT PRV-41-SUMI-M-MINT PRV-41-SUMI-L-MINT
+PRV-41-SUMI-MINY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-41-SUMI-S-MINY PRV-41-SUMI-M-MINY PRV-41-SUMI-L-MINY
+PRV-41-SUMI-FDET.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-41-SUMI-S-FDET PRV-41-SUMI-M-FDET PRV-41-SUMI-L-FDET
+PRV-41-SUMI-FDEY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-41-SUMI-S-FDEY PRV-41-SUMI-M-FDEY PRV-41-SUMI-L-FDEY
+PRV-41-SUMI-GOTT.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-41-SUMI-S-GOTT PRV-41-SUMI-M-GOTT PRV-41-SUMI-L-GOTT
+PRV-41-SUMI-GOTY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-41-SUMI-S-GOTY PRV-41-SUMI-M-GOTY PRV-41-SUMI-L-GOTY
+PRV-41-SHU-MINT.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-41-SHU-S-MINT PRV-41-SHU-M-MINT PRV-41-SHU-L-MINT
+PRV-41-SHU-MINY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-41-SHU-S-MINY PRV-41-SHU-M-MINY PRV-41-SHU-L-MINY
+PRV-41-SHU-FDET.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-41-SHU-S-FDET PRV-41-SHU-M-FDET PRV-41-SHU-L-FDET
+PRV-41-SHU-FDEY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-41-SHU-S-FDEY PRV-41-SHU-M-FDEY PRV-41-SHU-L-FDEY
+PRV-41-SHU-GOTT.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-41-SHU-S-GOTT PRV-41-SHU-M-GOTT PRV-41-SHU-L-GOTT
+PRV-41-SHU-GOTY.png,kawaii-ko-niwa-tabi-wo-saseyo,可愛い子には旅をさせよ,かわいいこにはたびをさせよ,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-41-SHU-S-GOTY PRV-41-SHU-M-GOTY PRV-41-SHU-L-GOTY
+PRV-42-KNR-MINT.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-42-KNR-S-MINT PRV-42-KNR-M-MINT PRV-42-KNR-L-MINT
+PRV-42-KNR-MINY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-42-KNR-S-MINY PRV-42-KNR-M-MINY PRV-42-KNR-L-MINY
+PRV-42-KNR-FDET.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-42-KNR-S-FDET PRV-42-KNR-M-FDET PRV-42-KNR-L-FDET
+PRV-42-KNR-FDEY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-42-KNR-S-FDEY PRV-42-KNR-M-FDEY PRV-42-KNR-L-FDEY
+PRV-42-KNR-GOTT.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-42-KNR-S-GOTT PRV-42-KNR-M-GOTT PRV-42-KNR-L-GOTT
+PRV-42-KNR-GOTY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-42-KNR-S-GOTY PRV-42-KNR-M-GOTY PRV-42-KNR-L-GOTY
+PRV-42-AI-MINT.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-42-AI-S-MINT PRV-42-AI-M-MINT PRV-42-AI-L-MINT
+PRV-42-AI-MINY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-42-AI-S-MINY PRV-42-AI-M-MINY PRV-42-AI-L-MINY
+PRV-42-AI-FDET.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-42-AI-S-FDET PRV-42-AI-M-FDET PRV-42-AI-L-FDET
+PRV-42-AI-FDEY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-42-AI-S-FDEY PRV-42-AI-M-FDEY PRV-42-AI-L-FDEY
+PRV-42-AI-GOTT.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-42-AI-S-GOTT PRV-42-AI-M-GOTT PRV-42-AI-L-GOTT
+PRV-42-AI-GOTY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-42-AI-S-GOTY PRV-42-AI-M-GOTY PRV-42-AI-L-GOTY
+PRV-42-SUMI-MINT.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-42-SUMI-S-MINT PRV-42-SUMI-M-MINT PRV-42-SUMI-L-MINT
+PRV-42-SUMI-MINY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-42-SUMI-S-MINY PRV-42-SUMI-M-MINY PRV-42-SUMI-L-MINY
+PRV-42-SUMI-FDET.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-42-SUMI-S-FDET PRV-42-SUMI-M-FDET PRV-42-SUMI-L-FDET
+PRV-42-SUMI-FDEY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-42-SUMI-S-FDEY PRV-42-SUMI-M-FDEY PRV-42-SUMI-L-FDEY
+PRV-42-SUMI-GOTT.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-42-SUMI-S-GOTT PRV-42-SUMI-M-GOTT PRV-42-SUMI-L-GOTT
+PRV-42-SUMI-GOTY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-42-SUMI-S-GOTY PRV-42-SUMI-M-GOTY PRV-42-SUMI-L-GOTY
+PRV-42-SHU-MINT.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-42-SHU-S-MINT PRV-42-SHU-M-MINT PRV-42-SHU-L-MINT
+PRV-42-SHU-MINY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-42-SHU-S-MINY PRV-42-SHU-M-MINY PRV-42-SHU-L-MINY
+PRV-42-SHU-FDET.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-42-SHU-S-FDET PRV-42-SHU-M-FDET PRV-42-SHU-L-FDET
+PRV-42-SHU-FDEY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-42-SHU-S-FDEY PRV-42-SHU-M-FDEY PRV-42-SHU-L-FDEY
+PRV-42-SHU-GOTT.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-42-SHU-S-GOTT PRV-42-SHU-M-GOTT PRV-42-SHU-L-GOTT
+PRV-42-SHU-GOTY.png,shishi-no-ko-otoshi,獅子の子落とし,ししのこおとし,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-42-SHU-S-GOTY PRV-42-SHU-M-GOTY PRV-42-SHU-L-GOTY
+PRV-43-KNR-MINT.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-43-KNR-S-MINT PRV-43-KNR-M-MINT PRV-43-KNR-L-MINT
+PRV-43-KNR-MINY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-43-KNR-S-MINY PRV-43-KNR-M-MINY PRV-43-KNR-L-MINY
+PRV-43-KNR-FDET.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-43-KNR-S-FDET PRV-43-KNR-M-FDET PRV-43-KNR-L-FDET
+PRV-43-KNR-FDEY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-43-KNR-S-FDEY PRV-43-KNR-M-FDEY PRV-43-KNR-L-FDEY
+PRV-43-KNR-GOTT.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-43-KNR-S-GOTT PRV-43-KNR-M-GOTT PRV-43-KNR-L-GOTT
+PRV-43-KNR-GOTY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-43-KNR-S-GOTY PRV-43-KNR-M-GOTY PRV-43-KNR-L-GOTY
+PRV-43-AI-MINT.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-43-AI-S-MINT PRV-43-AI-M-MINT PRV-43-AI-L-MINT
+PRV-43-AI-MINY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-43-AI-S-MINY PRV-43-AI-M-MINY PRV-43-AI-L-MINY
+PRV-43-AI-FDET.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-43-AI-S-FDET PRV-43-AI-M-FDET PRV-43-AI-L-FDET
+PRV-43-AI-FDEY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-43-AI-S-FDEY PRV-43-AI-M-FDEY PRV-43-AI-L-FDEY
+PRV-43-AI-GOTT.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-43-AI-S-GOTT PRV-43-AI-M-GOTT PRV-43-AI-L-GOTT
+PRV-43-AI-GOTY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-43-AI-S-GOTY PRV-43-AI-M-GOTY PRV-43-AI-L-GOTY
+PRV-43-SUMI-MINT.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-43-SUMI-S-MINT PRV-43-SUMI-M-MINT PRV-43-SUMI-L-MINT
+PRV-43-SUMI-MINY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-43-SUMI-S-MINY PRV-43-SUMI-M-MINY PRV-43-SUMI-L-MINY
+PRV-43-SUMI-FDET.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-43-SUMI-S-FDET PRV-43-SUMI-M-FDET PRV-43-SUMI-L-FDET
+PRV-43-SUMI-FDEY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-43-SUMI-S-FDEY PRV-43-SUMI-M-FDEY PRV-43-SUMI-L-FDEY
+PRV-43-SUMI-GOTT.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-43-SUMI-S-GOTT PRV-43-SUMI-M-GOTT PRV-43-SUMI-L-GOTT
+PRV-43-SUMI-GOTY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-43-SUMI-S-GOTY PRV-43-SUMI-M-GOTY PRV-43-SUMI-L-GOTY
+PRV-43-SHU-MINT.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-43-SHU-S-MINT PRV-43-SHU-M-MINT PRV-43-SHU-L-MINT
+PRV-43-SHU-MINY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-43-SHU-S-MINY PRV-43-SHU-M-MINY PRV-43-SHU-L-MINY
+PRV-43-SHU-FDET.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-43-SHU-S-FDET PRV-43-SHU-M-FDET PRV-43-SHU-L-FDET
+PRV-43-SHU-FDEY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-43-SHU-S-FDEY PRV-43-SHU-M-FDEY PRV-43-SHU-L-FDEY
+PRV-43-SHU-GOTT.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-43-SHU-S-GOTT PRV-43-SHU-M-GOTT PRV-43-SHU-L-GOTT
+PRV-43-SHU-GOTY.png,tama-migakazareba-hikari-nashi,玉磨かざれば光なし,たまみがかざればひかりなし,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-43-SHU-S-GOTY PRV-43-SHU-M-GOTY PRV-43-SHU-L-GOTY
+PRV-44-KNR-MINT.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-44-KNR-S-MINT PRV-44-KNR-M-MINT PRV-44-KNR-L-MINT
+PRV-44-KNR-MINY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-44-KNR-S-MINY PRV-44-KNR-M-MINY PRV-44-KNR-L-MINY
+PRV-44-KNR-FDET.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-44-KNR-S-FDET PRV-44-KNR-M-FDET PRV-44-KNR-L-FDET
+PRV-44-KNR-FDEY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-44-KNR-S-FDEY PRV-44-KNR-M-FDEY PRV-44-KNR-L-FDEY
+PRV-44-KNR-GOTT.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-44-KNR-S-GOTT PRV-44-KNR-M-GOTT PRV-44-KNR-L-GOTT
+PRV-44-KNR-GOTY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-44-KNR-S-GOTY PRV-44-KNR-M-GOTY PRV-44-KNR-L-GOTY
+PRV-44-AI-MINT.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-44-AI-S-MINT PRV-44-AI-M-MINT PRV-44-AI-L-MINT
+PRV-44-AI-MINY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-44-AI-S-MINY PRV-44-AI-M-MINY PRV-44-AI-L-MINY
+PRV-44-AI-FDET.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-44-AI-S-FDET PRV-44-AI-M-FDET PRV-44-AI-L-FDET
+PRV-44-AI-FDEY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-44-AI-S-FDEY PRV-44-AI-M-FDEY PRV-44-AI-L-FDEY
+PRV-44-AI-GOTT.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-44-AI-S-GOTT PRV-44-AI-M-GOTT PRV-44-AI-L-GOTT
+PRV-44-AI-GOTY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-44-AI-S-GOTY PRV-44-AI-M-GOTY PRV-44-AI-L-GOTY
+PRV-44-SUMI-MINT.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-44-SUMI-S-MINT PRV-44-SUMI-M-MINT PRV-44-SUMI-L-MINT
+PRV-44-SUMI-MINY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-44-SUMI-S-MINY PRV-44-SUMI-M-MINY PRV-44-SUMI-L-MINY
+PRV-44-SUMI-FDET.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-44-SUMI-S-FDET PRV-44-SUMI-M-FDET PRV-44-SUMI-L-FDET
+PRV-44-SUMI-FDEY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-44-SUMI-S-FDEY PRV-44-SUMI-M-FDEY PRV-44-SUMI-L-FDEY
+PRV-44-SUMI-GOTT.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-44-SUMI-S-GOTT PRV-44-SUMI-M-GOTT PRV-44-SUMI-L-GOTT
+PRV-44-SUMI-GOTY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-44-SUMI-S-GOTY PRV-44-SUMI-M-GOTY PRV-44-SUMI-L-GOTY
+PRV-44-SHU-MINT.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-44-SHU-S-MINT PRV-44-SHU-M-MINT PRV-44-SHU-L-MINT
+PRV-44-SHU-MINY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-44-SHU-S-MINY PRV-44-SHU-M-MINY PRV-44-SHU-L-MINY
+PRV-44-SHU-FDET.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-44-SHU-S-FDET PRV-44-SHU-M-FDET PRV-44-SHU-L-FDET
+PRV-44-SHU-FDEY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-44-SHU-S-FDEY PRV-44-SHU-M-FDEY PRV-44-SHU-L-FDEY
+PRV-44-SHU-GOTT.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-44-SHU-S-GOTT PRV-44-SHU-M-GOTT PRV-44-SHU-L-GOTT
+PRV-44-SHU-GOTY.png,jinji-wo-tsukushite-tenmei-wo-matsu,人事を尽くして天命を待つ,じんじをつくしててんめいをまつ,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-44-SHU-S-GOTY PRV-44-SHU-M-GOTY PRV-44-SHU-L-GOTY
+PRV-45-KNR-MINT.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-45-KNR-S-MINT PRV-45-KNR-M-MINT PRV-45-KNR-L-MINT
+PRV-45-KNR-MINY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-45-KNR-S-MINY PRV-45-KNR-M-MINY PRV-45-KNR-L-MINY
+PRV-45-KNR-FDET.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-45-KNR-S-FDET PRV-45-KNR-M-FDET PRV-45-KNR-L-FDET
+PRV-45-KNR-FDEY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-45-KNR-S-FDEY PRV-45-KNR-M-FDEY PRV-45-KNR-L-FDEY
+PRV-45-KNR-GOTT.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-45-KNR-S-GOTT PRV-45-KNR-M-GOTT PRV-45-KNR-L-GOTT
+PRV-45-KNR-GOTY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-45-KNR-S-GOTY PRV-45-KNR-M-GOTY PRV-45-KNR-L-GOTY
+PRV-45-AI-MINT.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-45-AI-S-MINT PRV-45-AI-M-MINT PRV-45-AI-L-MINT
+PRV-45-AI-MINY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-45-AI-S-MINY PRV-45-AI-M-MINY PRV-45-AI-L-MINY
+PRV-45-AI-FDET.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-45-AI-S-FDET PRV-45-AI-M-FDET PRV-45-AI-L-FDET
+PRV-45-AI-FDEY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-45-AI-S-FDEY PRV-45-AI-M-FDEY PRV-45-AI-L-FDEY
+PRV-45-AI-GOTT.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-45-AI-S-GOTT PRV-45-AI-M-GOTT PRV-45-AI-L-GOTT
+PRV-45-AI-GOTY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-45-AI-S-GOTY PRV-45-AI-M-GOTY PRV-45-AI-L-GOTY
+PRV-45-SUMI-MINT.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-45-SUMI-S-MINT PRV-45-SUMI-M-MINT PRV-45-SUMI-L-MINT
+PRV-45-SUMI-MINY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-45-SUMI-S-MINY PRV-45-SUMI-M-MINY PRV-45-SUMI-L-MINY
+PRV-45-SUMI-FDET.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-45-SUMI-S-FDET PRV-45-SUMI-M-FDET PRV-45-SUMI-L-FDET
+PRV-45-SUMI-FDEY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-45-SUMI-S-FDEY PRV-45-SUMI-M-FDEY PRV-45-SUMI-L-FDEY
+PRV-45-SUMI-GOTT.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-45-SUMI-S-GOTT PRV-45-SUMI-M-GOTT PRV-45-SUMI-L-GOTT
+PRV-45-SUMI-GOTY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-45-SUMI-S-GOTY PRV-45-SUMI-M-GOTY PRV-45-SUMI-L-GOTY
+PRV-45-SHU-MINT.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-45-SHU-S-MINT PRV-45-SHU-M-MINT PRV-45-SHU-L-MINT
+PRV-45-SHU-MINY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-45-SHU-S-MINY PRV-45-SHU-M-MINY PRV-45-SHU-L-MINY
+PRV-45-SHU-FDET.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-45-SHU-S-FDET PRV-45-SHU-M-FDET PRV-45-SHU-L-FDET
+PRV-45-SHU-FDEY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-45-SHU-S-FDEY PRV-45-SHU-M-FDEY PRV-45-SHU-L-FDEY
+PRV-45-SHU-GOTT.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-45-SHU-S-GOTT PRV-45-SHU-M-GOTT PRV-45-SHU-L-GOTT
+PRV-45-SHU-GOTY.png,seishin-ittou,精神一到何事か成らざらん,せいしんいっとうなにごとかならざらん,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-45-SHU-S-GOTY PRV-45-SHU-M-GOTY PRV-45-SHU-L-GOTY
+PRV-46-KNR-MINT.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-46-KNR-S-MINT PRV-46-KNR-M-MINT PRV-46-KNR-L-MINT
+PRV-46-KNR-MINY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-46-KNR-S-MINY PRV-46-KNR-M-MINY PRV-46-KNR-L-MINY
+PRV-46-KNR-FDET.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-46-KNR-S-FDET PRV-46-KNR-M-FDET PRV-46-KNR-L-FDET
+PRV-46-KNR-FDEY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-46-KNR-S-FDEY PRV-46-KNR-M-FDEY PRV-46-KNR-L-FDEY
+PRV-46-KNR-GOTT.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-46-KNR-S-GOTT PRV-46-KNR-M-GOTT PRV-46-KNR-L-GOTT
+PRV-46-KNR-GOTY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-46-KNR-S-GOTY PRV-46-KNR-M-GOTY PRV-46-KNR-L-GOTY
+PRV-46-AI-MINT.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-46-AI-S-MINT PRV-46-AI-M-MINT PRV-46-AI-L-MINT
+PRV-46-AI-MINY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-46-AI-S-MINY PRV-46-AI-M-MINY PRV-46-AI-L-MINY
+PRV-46-AI-FDET.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-46-AI-S-FDET PRV-46-AI-M-FDET PRV-46-AI-L-FDET
+PRV-46-AI-FDEY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-46-AI-S-FDEY PRV-46-AI-M-FDEY PRV-46-AI-L-FDEY
+PRV-46-AI-GOTT.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-46-AI-S-GOTT PRV-46-AI-M-GOTT PRV-46-AI-L-GOTT
+PRV-46-AI-GOTY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-46-AI-S-GOTY PRV-46-AI-M-GOTY PRV-46-AI-L-GOTY
+PRV-46-SUMI-MINT.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-46-SUMI-S-MINT PRV-46-SUMI-M-MINT PRV-46-SUMI-L-MINT
+PRV-46-SUMI-MINY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-46-SUMI-S-MINY PRV-46-SUMI-M-MINY PRV-46-SUMI-L-MINY
+PRV-46-SUMI-FDET.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-46-SUMI-S-FDET PRV-46-SUMI-M-FDET PRV-46-SUMI-L-FDET
+PRV-46-SUMI-FDEY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-46-SUMI-S-FDEY PRV-46-SUMI-M-FDEY PRV-46-SUMI-L-FDEY
+PRV-46-SUMI-GOTT.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-46-SUMI-S-GOTT PRV-46-SUMI-M-GOTT PRV-46-SUMI-L-GOTT
+PRV-46-SUMI-GOTY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-46-SUMI-S-GOTY PRV-46-SUMI-M-GOTY PRV-46-SUMI-L-GOTY
+PRV-46-SHU-MINT.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-46-SHU-S-MINT PRV-46-SHU-M-MINT PRV-46-SHU-L-MINT
+PRV-46-SHU-MINY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-46-SHU-S-MINY PRV-46-SHU-M-MINY PRV-46-SHU-L-MINY
+PRV-46-SHU-FDET.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-46-SHU-S-FDET PRV-46-SHU-M-FDET PRV-46-SHU-L-FDET
+PRV-46-SHU-FDEY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-46-SHU-S-FDEY PRV-46-SHU-M-FDEY PRV-46-SHU-L-FDEY
+PRV-46-SHU-GOTT.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-46-SHU-S-GOTT PRV-46-SHU-M-GOTT PRV-46-SHU-L-GOTT
+PRV-46-SHU-GOTY.png,shoshin-wasuru-bekarazu,初心忘るべからず,しょしんわするべからず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-46-SHU-S-GOTY PRV-46-SHU-M-GOTY PRV-46-SHU-L-GOTY
+PRV-47-KNR-MINT.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-47-KNR-S-MINT PRV-47-KNR-M-MINT PRV-47-KNR-L-MINT
+PRV-47-KNR-MINY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-47-KNR-S-MINY PRV-47-KNR-M-MINY PRV-47-KNR-L-MINY
+PRV-47-KNR-FDET.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-47-KNR-S-FDET PRV-47-KNR-M-FDET PRV-47-KNR-L-FDET
+PRV-47-KNR-FDEY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-47-KNR-S-FDEY PRV-47-KNR-M-FDEY PRV-47-KNR-L-FDEY
+PRV-47-KNR-GOTT.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-47-KNR-S-GOTT PRV-47-KNR-M-GOTT PRV-47-KNR-L-GOTT
+PRV-47-KNR-GOTY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-47-KNR-S-GOTY PRV-47-KNR-M-GOTY PRV-47-KNR-L-GOTY
+PRV-47-AI-MINT.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-47-AI-S-MINT PRV-47-AI-M-MINT PRV-47-AI-L-MINT
+PRV-47-AI-MINY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-47-AI-S-MINY PRV-47-AI-M-MINY PRV-47-AI-L-MINY
+PRV-47-AI-FDET.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-47-AI-S-FDET PRV-47-AI-M-FDET PRV-47-AI-L-FDET
+PRV-47-AI-FDEY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-47-AI-S-FDEY PRV-47-AI-M-FDEY PRV-47-AI-L-FDEY
+PRV-47-AI-GOTT.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-47-AI-S-GOTT PRV-47-AI-M-GOTT PRV-47-AI-L-GOTT
+PRV-47-AI-GOTY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-47-AI-S-GOTY PRV-47-AI-M-GOTY PRV-47-AI-L-GOTY
+PRV-47-SUMI-MINT.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-47-SUMI-S-MINT PRV-47-SUMI-M-MINT PRV-47-SUMI-L-MINT
+PRV-47-SUMI-MINY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-47-SUMI-S-MINY PRV-47-SUMI-M-MINY PRV-47-SUMI-L-MINY
+PRV-47-SUMI-FDET.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-47-SUMI-S-FDET PRV-47-SUMI-M-FDET PRV-47-SUMI-L-FDET
+PRV-47-SUMI-FDEY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-47-SUMI-S-FDEY PRV-47-SUMI-M-FDEY PRV-47-SUMI-L-FDEY
+PRV-47-SUMI-GOTT.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-47-SUMI-S-GOTT PRV-47-SUMI-M-GOTT PRV-47-SUMI-L-GOTT
+PRV-47-SUMI-GOTY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-47-SUMI-S-GOTY PRV-47-SUMI-M-GOTY PRV-47-SUMI-L-GOTY
+PRV-47-SHU-MINT.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-47-SHU-S-MINT PRV-47-SHU-M-MINT PRV-47-SHU-L-MINT
+PRV-47-SHU-MINY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-47-SHU-S-MINY PRV-47-SHU-M-MINY PRV-47-SHU-L-MINY
+PRV-47-SHU-FDET.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-47-SHU-S-FDET PRV-47-SHU-M-FDET PRV-47-SHU-L-FDET
+PRV-47-SHU-FDEY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-47-SHU-S-FDEY PRV-47-SHU-M-FDEY PRV-47-SHU-L-FDEY
+PRV-47-SHU-GOTT.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-47-SHU-S-GOTT PRV-47-SHU-M-GOTT PRV-47-SHU-L-GOTT
+PRV-47-SHU-GOTY.png,jouzen-wa-mizu-no-gotoshi,上善は水の如し,じょうぜんはみずのごとし,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-47-SHU-S-GOTY PRV-47-SHU-M-GOTY PRV-47-SHU-L-GOTY
+PRV-48-KNR-MINT.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-48-KNR-S-MINT PRV-48-KNR-M-MINT PRV-48-KNR-L-MINT
+PRV-48-KNR-MINY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-48-KNR-S-MINY PRV-48-KNR-M-MINY PRV-48-KNR-L-MINY
+PRV-48-KNR-FDET.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-48-KNR-S-FDET PRV-48-KNR-M-FDET PRV-48-KNR-L-FDET
+PRV-48-KNR-FDEY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-48-KNR-S-FDEY PRV-48-KNR-M-FDEY PRV-48-KNR-L-FDEY
+PRV-48-KNR-GOTT.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-48-KNR-S-GOTT PRV-48-KNR-M-GOTT PRV-48-KNR-L-GOTT
+PRV-48-KNR-GOTY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-48-KNR-S-GOTY PRV-48-KNR-M-GOTY PRV-48-KNR-L-GOTY
+PRV-48-AI-MINT.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-48-AI-S-MINT PRV-48-AI-M-MINT PRV-48-AI-L-MINT
+PRV-48-AI-MINY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-48-AI-S-MINY PRV-48-AI-M-MINY PRV-48-AI-L-MINY
+PRV-48-AI-FDET.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-48-AI-S-FDET PRV-48-AI-M-FDET PRV-48-AI-L-FDET
+PRV-48-AI-FDEY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-48-AI-S-FDEY PRV-48-AI-M-FDEY PRV-48-AI-L-FDEY
+PRV-48-AI-GOTT.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-48-AI-S-GOTT PRV-48-AI-M-GOTT PRV-48-AI-L-GOTT
+PRV-48-AI-GOTY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-48-AI-S-GOTY PRV-48-AI-M-GOTY PRV-48-AI-L-GOTY
+PRV-48-SUMI-MINT.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-48-SUMI-S-MINT PRV-48-SUMI-M-MINT PRV-48-SUMI-L-MINT
+PRV-48-SUMI-MINY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-48-SUMI-S-MINY PRV-48-SUMI-M-MINY PRV-48-SUMI-L-MINY
+PRV-48-SUMI-FDET.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-48-SUMI-S-FDET PRV-48-SUMI-M-FDET PRV-48-SUMI-L-FDET
+PRV-48-SUMI-FDEY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-48-SUMI-S-FDEY PRV-48-SUMI-M-FDEY PRV-48-SUMI-L-FDEY
+PRV-48-SUMI-GOTT.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-48-SUMI-S-GOTT PRV-48-SUMI-M-GOTT PRV-48-SUMI-L-GOTT
+PRV-48-SUMI-GOTY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-48-SUMI-S-GOTY PRV-48-SUMI-M-GOTY PRV-48-SUMI-L-GOTY
+PRV-48-SHU-MINT.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-48-SHU-S-MINT PRV-48-SHU-M-MINT PRV-48-SHU-L-MINT
+PRV-48-SHU-MINY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-48-SHU-S-MINY PRV-48-SHU-M-MINY PRV-48-SHU-L-MINY
+PRV-48-SHU-FDET.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-48-SHU-S-FDET PRV-48-SHU-M-FDET PRV-48-SHU-L-FDET
+PRV-48-SHU-FDEY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-48-SHU-S-FDEY PRV-48-SHU-M-FDEY PRV-48-SHU-L-FDEY
+PRV-48-SHU-GOTT.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-48-SHU-S-GOTT PRV-48-SHU-M-GOTT PRV-48-SHU-L-GOTT
+PRV-48-SHU-GOTY.png,taikou-wa-setsu-naru-ga-gotoshi,大巧は拙なるが若し,たいこうはせつなるがごとし,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-48-SHU-S-GOTY PRV-48-SHU-M-GOTY PRV-48-SHU-L-GOTY
+PRV-49-KNR-MINT.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-49-KNR-S-MINT PRV-49-KNR-M-MINT PRV-49-KNR-L-MINT
+PRV-49-KNR-MINY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-49-KNR-S-MINY PRV-49-KNR-M-MINY PRV-49-KNR-L-MINY
+PRV-49-KNR-FDET.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-49-KNR-S-FDET PRV-49-KNR-M-FDET PRV-49-KNR-L-FDET
+PRV-49-KNR-FDEY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-49-KNR-S-FDEY PRV-49-KNR-M-FDEY PRV-49-KNR-L-FDEY
+PRV-49-KNR-GOTT.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-49-KNR-S-GOTT PRV-49-KNR-M-GOTT PRV-49-KNR-L-GOTT
+PRV-49-KNR-GOTY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-49-KNR-S-GOTY PRV-49-KNR-M-GOTY PRV-49-KNR-L-GOTY
+PRV-49-AI-MINT.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-49-AI-S-MINT PRV-49-AI-M-MINT PRV-49-AI-L-MINT
+PRV-49-AI-MINY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-49-AI-S-MINY PRV-49-AI-M-MINY PRV-49-AI-L-MINY
+PRV-49-AI-FDET.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-49-AI-S-FDET PRV-49-AI-M-FDET PRV-49-AI-L-FDET
+PRV-49-AI-FDEY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-49-AI-S-FDEY PRV-49-AI-M-FDEY PRV-49-AI-L-FDEY
+PRV-49-AI-GOTT.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-49-AI-S-GOTT PRV-49-AI-M-GOTT PRV-49-AI-L-GOTT
+PRV-49-AI-GOTY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-49-AI-S-GOTY PRV-49-AI-M-GOTY PRV-49-AI-L-GOTY
+PRV-49-SUMI-MINT.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-49-SUMI-S-MINT PRV-49-SUMI-M-MINT PRV-49-SUMI-L-MINT
+PRV-49-SUMI-MINY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-49-SUMI-S-MINY PRV-49-SUMI-M-MINY PRV-49-SUMI-L-MINY
+PRV-49-SUMI-FDET.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-49-SUMI-S-FDET PRV-49-SUMI-M-FDET PRV-49-SUMI-L-FDET
+PRV-49-SUMI-FDEY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-49-SUMI-S-FDEY PRV-49-SUMI-M-FDEY PRV-49-SUMI-L-FDEY
+PRV-49-SUMI-GOTT.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-49-SUMI-S-GOTT PRV-49-SUMI-M-GOTT PRV-49-SUMI-L-GOTT
+PRV-49-SUMI-GOTY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-49-SUMI-S-GOTY PRV-49-SUMI-M-GOTY PRV-49-SUMI-L-GOTY
+PRV-49-SHU-MINT.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-49-SHU-S-MINT PRV-49-SHU-M-MINT PRV-49-SHU-L-MINT
+PRV-49-SHU-MINY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-49-SHU-S-MINY PRV-49-SHU-M-MINY PRV-49-SHU-L-MINY
+PRV-49-SHU-FDET.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-49-SHU-S-FDET PRV-49-SHU-M-FDET PRV-49-SHU-L-FDET
+PRV-49-SHU-FDEY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-49-SHU-S-FDEY PRV-49-SHU-M-FDEY PRV-49-SHU-L-FDEY
+PRV-49-SHU-GOTT.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-49-SHU-S-GOTT PRV-49-SHU-M-GOTT PRV-49-SHU-L-GOTT
+PRV-49-SHU-GOTY.png,taru-wo-shiru-mono-wa-tomu,足るを知る者は富む,たるをしるものはとむ,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-49-SHU-S-GOTY PRV-49-SHU-M-GOTY PRV-49-SHU-L-GOTY
+PRV-50-KNR-MINT.png,shogyou-mujou,諸行無常,しょぎょうむじょう,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-50-KNR-S-MINT PRV-50-KNR-M-MINT PRV-50-KNR-L-MINT
+PRV-50-KNR-MINY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-50-KNR-S-MINY PRV-50-KNR-M-MINY PRV-50-KNR-L-MINY
+PRV-50-KNR-FDET.png,shogyou-mujou,諸行無常,しょぎょうむじょう,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-50-KNR-S-FDET PRV-50-KNR-M-FDET PRV-50-KNR-L-FDET
+PRV-50-KNR-FDEY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-50-KNR-S-FDEY PRV-50-KNR-M-FDEY PRV-50-KNR-L-FDEY
+PRV-50-KNR-GOTT.png,shogyou-mujou,諸行無常,しょぎょうむじょう,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-50-KNR-S-GOTT PRV-50-KNR-M-GOTT PRV-50-KNR-L-GOTT
+PRV-50-KNR-GOTY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-50-KNR-S-GOTY PRV-50-KNR-M-GOTY PRV-50-KNR-L-GOTY
+PRV-50-AI-MINT.png,shogyou-mujou,諸行無常,しょぎょうむじょう,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-50-AI-S-MINT PRV-50-AI-M-MINT PRV-50-AI-L-MINT
+PRV-50-AI-MINY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-50-AI-S-MINY PRV-50-AI-M-MINY PRV-50-AI-L-MINY
+PRV-50-AI-FDET.png,shogyou-mujou,諸行無常,しょぎょうむじょう,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-50-AI-S-FDET PRV-50-AI-M-FDET PRV-50-AI-L-FDET
+PRV-50-AI-FDEY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-50-AI-S-FDEY PRV-50-AI-M-FDEY PRV-50-AI-L-FDEY
+PRV-50-AI-GOTT.png,shogyou-mujou,諸行無常,しょぎょうむじょう,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-50-AI-S-GOTT PRV-50-AI-M-GOTT PRV-50-AI-L-GOTT
+PRV-50-AI-GOTY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-50-AI-S-GOTY PRV-50-AI-M-GOTY PRV-50-AI-L-GOTY
+PRV-50-SUMI-MINT.png,shogyou-mujou,諸行無常,しょぎょうむじょう,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-50-SUMI-S-MINT PRV-50-SUMI-M-MINT PRV-50-SUMI-L-MINT
+PRV-50-SUMI-MINY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-50-SUMI-S-MINY PRV-50-SUMI-M-MINY PRV-50-SUMI-L-MINY
+PRV-50-SUMI-FDET.png,shogyou-mujou,諸行無常,しょぎょうむじょう,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-50-SUMI-S-FDET PRV-50-SUMI-M-FDET PRV-50-SUMI-L-FDET
+PRV-50-SUMI-FDEY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-50-SUMI-S-FDEY PRV-50-SUMI-M-FDEY PRV-50-SUMI-L-FDEY
+PRV-50-SUMI-GOTT.png,shogyou-mujou,諸行無常,しょぎょうむじょう,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-50-SUMI-S-GOTT PRV-50-SUMI-M-GOTT PRV-50-SUMI-L-GOTT
+PRV-50-SUMI-GOTY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-50-SUMI-S-GOTY PRV-50-SUMI-M-GOTY PRV-50-SUMI-L-GOTY
+PRV-50-SHU-MINT.png,shogyou-mujou,諸行無常,しょぎょうむじょう,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-50-SHU-S-MINT PRV-50-SHU-M-MINT PRV-50-SHU-L-MINT
+PRV-50-SHU-MINY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-50-SHU-S-MINY PRV-50-SHU-M-MINY PRV-50-SHU-L-MINY
+PRV-50-SHU-FDET.png,shogyou-mujou,諸行無常,しょぎょうむじょう,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-50-SHU-S-FDET PRV-50-SHU-M-FDET PRV-50-SHU-L-FDET
+PRV-50-SHU-FDEY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-50-SHU-S-FDEY PRV-50-SHU-M-FDEY PRV-50-SHU-L-FDEY
+PRV-50-SHU-GOTT.png,shogyou-mujou,諸行無常,しょぎょうむじょう,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-50-SHU-S-GOTT PRV-50-SHU-M-GOTT PRV-50-SHU-L-GOTT
+PRV-50-SHU-GOTY.png,shogyou-mujou,諸行無常,しょぎょうむじょう,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-50-SHU-S-GOTY PRV-50-SHU-M-GOTY PRV-50-SHU-L-GOTY
+PRV-51-KNR-MINT.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-51-KNR-S-MINT PRV-51-KNR-M-MINT PRV-51-KNR-L-MINT
+PRV-51-KNR-MINY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-51-KNR-S-MINY PRV-51-KNR-M-MINY PRV-51-KNR-L-MINY
+PRV-51-KNR-FDET.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-51-KNR-S-FDET PRV-51-KNR-M-FDET PRV-51-KNR-L-FDET
+PRV-51-KNR-FDEY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-51-KNR-S-FDEY PRV-51-KNR-M-FDEY PRV-51-KNR-L-FDEY
+PRV-51-KNR-GOTT.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-51-KNR-S-GOTT PRV-51-KNR-M-GOTT PRV-51-KNR-L-GOTT
+PRV-51-KNR-GOTY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-51-KNR-S-GOTY PRV-51-KNR-M-GOTY PRV-51-KNR-L-GOTY
+PRV-51-AI-MINT.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-51-AI-S-MINT PRV-51-AI-M-MINT PRV-51-AI-L-MINT
+PRV-51-AI-MINY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-51-AI-S-MINY PRV-51-AI-M-MINY PRV-51-AI-L-MINY
+PRV-51-AI-FDET.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-51-AI-S-FDET PRV-51-AI-M-FDET PRV-51-AI-L-FDET
+PRV-51-AI-FDEY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-51-AI-S-FDEY PRV-51-AI-M-FDEY PRV-51-AI-L-FDEY
+PRV-51-AI-GOTT.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-51-AI-S-GOTT PRV-51-AI-M-GOTT PRV-51-AI-L-GOTT
+PRV-51-AI-GOTY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-51-AI-S-GOTY PRV-51-AI-M-GOTY PRV-51-AI-L-GOTY
+PRV-51-SUMI-MINT.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-51-SUMI-S-MINT PRV-51-SUMI-M-MINT PRV-51-SUMI-L-MINT
+PRV-51-SUMI-MINY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-51-SUMI-S-MINY PRV-51-SUMI-M-MINY PRV-51-SUMI-L-MINY
+PRV-51-SUMI-FDET.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-51-SUMI-S-FDET PRV-51-SUMI-M-FDET PRV-51-SUMI-L-FDET
+PRV-51-SUMI-FDEY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-51-SUMI-S-FDEY PRV-51-SUMI-M-FDEY PRV-51-SUMI-L-FDEY
+PRV-51-SUMI-GOTT.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-51-SUMI-S-GOTT PRV-51-SUMI-M-GOTT PRV-51-SUMI-L-GOTT
+PRV-51-SUMI-GOTY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-51-SUMI-S-GOTY PRV-51-SUMI-M-GOTY PRV-51-SUMI-L-GOTY
+PRV-51-SHU-MINT.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-51-SHU-S-MINT PRV-51-SHU-M-MINT PRV-51-SHU-L-MINT
+PRV-51-SHU-MINY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-51-SHU-S-MINY PRV-51-SHU-M-MINY PRV-51-SHU-L-MINY
+PRV-51-SHU-FDET.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-51-SHU-S-FDET PRV-51-SHU-M-FDET PRV-51-SHU-L-FDET
+PRV-51-SHU-FDEY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-51-SHU-S-FDEY PRV-51-SHU-M-FDEY PRV-51-SHU-L-FDEY
+PRV-51-SHU-GOTT.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-51-SHU-S-GOTT PRV-51-SHU-M-GOTT PRV-51-SHU-L-GOTT
+PRV-51-SHU-GOTY.png,saigetsu-hito-wo-matazu,歳月人を待たず,さいげつひとをまたず,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-51-SHU-S-GOTY PRV-51-SHU-M-GOTY PRV-51-SHU-L-GOTY
+PRV-52-KNR-MINT.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-52-KNR-S-MINT PRV-52-KNR-M-MINT PRV-52-KNR-L-MINT
+PRV-52-KNR-MINY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-52-KNR-S-MINY PRV-52-KNR-M-MINY PRV-52-KNR-L-MINY
+PRV-52-KNR-FDET.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-52-KNR-S-FDET PRV-52-KNR-M-FDET PRV-52-KNR-L-FDET
+PRV-52-KNR-FDEY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-52-KNR-S-FDEY PRV-52-KNR-M-FDEY PRV-52-KNR-L-FDEY
+PRV-52-KNR-GOTT.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-52-KNR-S-GOTT PRV-52-KNR-M-GOTT PRV-52-KNR-L-GOTT
+PRV-52-KNR-GOTY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-52-KNR-S-GOTY PRV-52-KNR-M-GOTY PRV-52-KNR-L-GOTY
+PRV-52-AI-MINT.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-52-AI-S-MINT PRV-52-AI-M-MINT PRV-52-AI-L-MINT
+PRV-52-AI-MINY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-52-AI-S-MINY PRV-52-AI-M-MINY PRV-52-AI-L-MINY
+PRV-52-AI-FDET.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-52-AI-S-FDET PRV-52-AI-M-FDET PRV-52-AI-L-FDET
+PRV-52-AI-FDEY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-52-AI-S-FDEY PRV-52-AI-M-FDEY PRV-52-AI-L-FDEY
+PRV-52-AI-GOTT.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-52-AI-S-GOTT PRV-52-AI-M-GOTT PRV-52-AI-L-GOTT
+PRV-52-AI-GOTY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-52-AI-S-GOTY PRV-52-AI-M-GOTY PRV-52-AI-L-GOTY
+PRV-52-SUMI-MINT.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-52-SUMI-S-MINT PRV-52-SUMI-M-MINT PRV-52-SUMI-L-MINT
+PRV-52-SUMI-MINY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-52-SUMI-S-MINY PRV-52-SUMI-M-MINY PRV-52-SUMI-L-MINY
+PRV-52-SUMI-FDET.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-52-SUMI-S-FDET PRV-52-SUMI-M-FDET PRV-52-SUMI-L-FDET
+PRV-52-SUMI-FDEY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-52-SUMI-S-FDEY PRV-52-SUMI-M-FDEY PRV-52-SUMI-L-FDEY
+PRV-52-SUMI-GOTT.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-52-SUMI-S-GOTT PRV-52-SUMI-M-GOTT PRV-52-SUMI-L-GOTT
+PRV-52-SUMI-GOTY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-52-SUMI-S-GOTY PRV-52-SUMI-M-GOTY PRV-52-SUMI-L-GOTY
+PRV-52-SHU-MINT.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-52-SHU-S-MINT PRV-52-SHU-M-MINT PRV-52-SHU-L-MINT
+PRV-52-SHU-MINY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-52-SHU-S-MINY PRV-52-SHU-M-MINY PRV-52-SHU-L-MINY
+PRV-52-SHU-FDET.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-52-SHU-S-FDET PRV-52-SHU-M-FDET PRV-52-SHU-L-FDET
+PRV-52-SHU-FDEY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-52-SHU-S-FDEY PRV-52-SHU-M-FDEY PRV-52-SHU-L-FDEY
+PRV-52-SHU-GOTT.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-52-SHU-S-GOTT PRV-52-SHU-M-GOTT PRV-52-SHU-L-GOTT
+PRV-52-SHU-GOTY.png,nichinichi-kore-koujitsu,日々是好日,にちにちこれこうにち,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-52-SHU-S-GOTY PRV-52-SHU-M-GOTY PRV-52-SHU-L-GOTY
+PRV-53-KNR-MINT.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-53-KNR-S-MINT PRV-53-KNR-M-MINT PRV-53-KNR-L-MINT
+PRV-53-KNR-MINY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-53-KNR-S-MINY PRV-53-KNR-M-MINY PRV-53-KNR-L-MINY
+PRV-53-KNR-FDET.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-53-KNR-S-FDET PRV-53-KNR-M-FDET PRV-53-KNR-L-FDET
+PRV-53-KNR-FDEY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-53-KNR-S-FDEY PRV-53-KNR-M-FDEY PRV-53-KNR-L-FDEY
+PRV-53-KNR-GOTT.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-53-KNR-S-GOTT PRV-53-KNR-M-GOTT PRV-53-KNR-L-GOTT
+PRV-53-KNR-GOTY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-53-KNR-S-GOTY PRV-53-KNR-M-GOTY PRV-53-KNR-L-GOTY
+PRV-53-AI-MINT.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-53-AI-S-MINT PRV-53-AI-M-MINT PRV-53-AI-L-MINT
+PRV-53-AI-MINY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-53-AI-S-MINY PRV-53-AI-M-MINY PRV-53-AI-L-MINY
+PRV-53-AI-FDET.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-53-AI-S-FDET PRV-53-AI-M-FDET PRV-53-AI-L-FDET
+PRV-53-AI-FDEY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-53-AI-S-FDEY PRV-53-AI-M-FDEY PRV-53-AI-L-FDEY
+PRV-53-AI-GOTT.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-53-AI-S-GOTT PRV-53-AI-M-GOTT PRV-53-AI-L-GOTT
+PRV-53-AI-GOTY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-53-AI-S-GOTY PRV-53-AI-M-GOTY PRV-53-AI-L-GOTY
+PRV-53-SUMI-MINT.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-53-SUMI-S-MINT PRV-53-SUMI-M-MINT PRV-53-SUMI-L-MINT
+PRV-53-SUMI-MINY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-53-SUMI-S-MINY PRV-53-SUMI-M-MINY PRV-53-SUMI-L-MINY
+PRV-53-SUMI-FDET.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-53-SUMI-S-FDET PRV-53-SUMI-M-FDET PRV-53-SUMI-L-FDET
+PRV-53-SUMI-FDEY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-53-SUMI-S-FDEY PRV-53-SUMI-M-FDEY PRV-53-SUMI-L-FDEY
+PRV-53-SUMI-GOTT.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-53-SUMI-S-GOTT PRV-53-SUMI-M-GOTT PRV-53-SUMI-L-GOTT
+PRV-53-SUMI-GOTY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-53-SUMI-S-GOTY PRV-53-SUMI-M-GOTY PRV-53-SUMI-L-GOTY
+PRV-53-SHU-MINT.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-53-SHU-S-MINT PRV-53-SHU-M-MINT PRV-53-SHU-L-MINT
+PRV-53-SHU-MINY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-53-SHU-S-MINY PRV-53-SHU-M-MINY PRV-53-SHU-L-MINY
+PRV-53-SHU-FDET.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-53-SHU-S-FDET PRV-53-SHU-M-FDET PRV-53-SHU-L-FDET
+PRV-53-SHU-FDEY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-53-SHU-S-FDEY PRV-53-SHU-M-FDEY PRV-53-SHU-L-FDEY
+PRV-53-SHU-GOTT.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-53-SHU-S-GOTT PRV-53-SHU-M-GOTT PRV-53-SHU-L-GOTT
+PRV-53-SHU-GOTY.png,ryouyaku-wa-kuchi-ni-nigashi,良薬は口に苦し,りょうやくはくちににがし,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-53-SHU-S-GOTY PRV-53-SHU-M-GOTY PRV-53-SHU-L-GOTY
+PRV-54-KNR-MINT.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-54-KNR-S-MINT PRV-54-KNR-M-MINT PRV-54-KNR-L-MINT
+PRV-54-KNR-MINY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-54-KNR-S-MINY PRV-54-KNR-M-MINY PRV-54-KNR-L-MINY
+PRV-54-KNR-FDET.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-54-KNR-S-FDET PRV-54-KNR-M-FDET PRV-54-KNR-L-FDET
+PRV-54-KNR-FDEY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-54-KNR-S-FDEY PRV-54-KNR-M-FDEY PRV-54-KNR-L-FDEY
+PRV-54-KNR-GOTT.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-54-KNR-S-GOTT PRV-54-KNR-M-GOTT PRV-54-KNR-L-GOTT
+PRV-54-KNR-GOTY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-54-KNR-S-GOTY PRV-54-KNR-M-GOTY PRV-54-KNR-L-GOTY
+PRV-54-AI-MINT.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-54-AI-S-MINT PRV-54-AI-M-MINT PRV-54-AI-L-MINT
+PRV-54-AI-MINY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-54-AI-S-MINY PRV-54-AI-M-MINY PRV-54-AI-L-MINY
+PRV-54-AI-FDET.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-54-AI-S-FDET PRV-54-AI-M-FDET PRV-54-AI-L-FDET
+PRV-54-AI-FDEY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-54-AI-S-FDEY PRV-54-AI-M-FDEY PRV-54-AI-L-FDEY
+PRV-54-AI-GOTT.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-54-AI-S-GOTT PRV-54-AI-M-GOTT PRV-54-AI-L-GOTT
+PRV-54-AI-GOTY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-54-AI-S-GOTY PRV-54-AI-M-GOTY PRV-54-AI-L-GOTY
+PRV-54-SUMI-MINT.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-54-SUMI-S-MINT PRV-54-SUMI-M-MINT PRV-54-SUMI-L-MINT
+PRV-54-SUMI-MINY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-54-SUMI-S-MINY PRV-54-SUMI-M-MINY PRV-54-SUMI-L-MINY
+PRV-54-SUMI-FDET.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-54-SUMI-S-FDET PRV-54-SUMI-M-FDET PRV-54-SUMI-L-FDET
+PRV-54-SUMI-FDEY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-54-SUMI-S-FDEY PRV-54-SUMI-M-FDEY PRV-54-SUMI-L-FDEY
+PRV-54-SUMI-GOTT.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-54-SUMI-S-GOTT PRV-54-SUMI-M-GOTT PRV-54-SUMI-L-GOTT
+PRV-54-SUMI-GOTY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-54-SUMI-S-GOTY PRV-54-SUMI-M-GOTY PRV-54-SUMI-L-GOTY
+PRV-54-SHU-MINT.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-54-SHU-S-MINT PRV-54-SHU-M-MINT PRV-54-SHU-L-MINT
+PRV-54-SHU-MINY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-54-SHU-S-MINY PRV-54-SHU-M-MINY PRV-54-SHU-L-MINY
+PRV-54-SHU-FDET.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-54-SHU-S-FDET PRV-54-SHU-M-FDET PRV-54-SHU-L-FDET
+PRV-54-SHU-FDEY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-54-SHU-S-FDEY PRV-54-SHU-M-FDEY PRV-54-SHU-L-FDEY
+PRV-54-SHU-GOTT.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-54-SHU-S-GOTT PRV-54-SHU-M-GOTT PRV-54-SHU-L-GOTT
+PRV-54-SHU-GOTY.png,kougen-reishoku-sukunashi-jin,巧言令色鮮なし仁,こうげんれいしょくすくなしじん,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-54-SHU-S-GOTY PRV-54-SHU-M-GOTY PRV-54-SHU-L-GOTY
+PRV-55-KNR-MINT.png,meikyou-shisui,明鏡止水,めいきょうしすい,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,縦書き,PRV-55-KNR-S-MINT PRV-55-KNR-M-MINT PRV-55-KNR-L-MINT
+PRV-55-KNR-MINY.png,meikyou-shisui,明鏡止水,めいきょうしすい,生成り,#f2ece0,#2a2724,明朝,Shippori Mincho,横書き,PRV-55-KNR-S-MINY PRV-55-KNR-M-MINY PRV-55-KNR-L-MINY
+PRV-55-KNR-FDET.png,meikyou-shisui,明鏡止水,めいきょうしすい,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,縦書き,PRV-55-KNR-S-FDET PRV-55-KNR-M-FDET PRV-55-KNR-L-FDET
+PRV-55-KNR-FDEY.png,meikyou-shisui,明鏡止水,めいきょうしすい,生成り,#f2ece0,#2a2724,筆文字,Yuji Syuku,横書き,PRV-55-KNR-S-FDEY PRV-55-KNR-M-FDEY PRV-55-KNR-L-FDEY
+PRV-55-KNR-GOTT.png,meikyou-shisui,明鏡止水,めいきょうしすい,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,縦書き,PRV-55-KNR-S-GOTT PRV-55-KNR-M-GOTT PRV-55-KNR-L-GOTT
+PRV-55-KNR-GOTY.png,meikyou-shisui,明鏡止水,めいきょうしすい,生成り,#f2ece0,#2a2724,極太ゴシック,Dela Gothic One,横書き,PRV-55-KNR-S-GOTY PRV-55-KNR-M-GOTY PRV-55-KNR-L-GOTY
+PRV-55-AI-MINT.png,meikyou-shisui,明鏡止水,めいきょうしすい,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,縦書き,PRV-55-AI-S-MINT PRV-55-AI-M-MINT PRV-55-AI-L-MINT
+PRV-55-AI-MINY.png,meikyou-shisui,明鏡止水,めいきょうしすい,藍,#1f3c66,#f4f1e8,明朝,Shippori Mincho,横書き,PRV-55-AI-S-MINY PRV-55-AI-M-MINY PRV-55-AI-L-MINY
+PRV-55-AI-FDET.png,meikyou-shisui,明鏡止水,めいきょうしすい,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,縦書き,PRV-55-AI-S-FDET PRV-55-AI-M-FDET PRV-55-AI-L-FDET
+PRV-55-AI-FDEY.png,meikyou-shisui,明鏡止水,めいきょうしすい,藍,#1f3c66,#f4f1e8,筆文字,Yuji Syuku,横書き,PRV-55-AI-S-FDEY PRV-55-AI-M-FDEY PRV-55-AI-L-FDEY
+PRV-55-AI-GOTT.png,meikyou-shisui,明鏡止水,めいきょうしすい,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,縦書き,PRV-55-AI-S-GOTT PRV-55-AI-M-GOTT PRV-55-AI-L-GOTT
+PRV-55-AI-GOTY.png,meikyou-shisui,明鏡止水,めいきょうしすい,藍,#1f3c66,#f4f1e8,極太ゴシック,Dela Gothic One,横書き,PRV-55-AI-S-GOTY PRV-55-AI-M-GOTY PRV-55-AI-L-GOTY
+PRV-55-SUMI-MINT.png,meikyou-shisui,明鏡止水,めいきょうしすい,墨,#22201e,#efe9dc,明朝,Shippori Mincho,縦書き,PRV-55-SUMI-S-MINT PRV-55-SUMI-M-MINT PRV-55-SUMI-L-MINT
+PRV-55-SUMI-MINY.png,meikyou-shisui,明鏡止水,めいきょうしすい,墨,#22201e,#efe9dc,明朝,Shippori Mincho,横書き,PRV-55-SUMI-S-MINY PRV-55-SUMI-M-MINY PRV-55-SUMI-L-MINY
+PRV-55-SUMI-FDET.png,meikyou-shisui,明鏡止水,めいきょうしすい,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,縦書き,PRV-55-SUMI-S-FDET PRV-55-SUMI-M-FDET PRV-55-SUMI-L-FDET
+PRV-55-SUMI-FDEY.png,meikyou-shisui,明鏡止水,めいきょうしすい,墨,#22201e,#efe9dc,筆文字,Yuji Syuku,横書き,PRV-55-SUMI-S-FDEY PRV-55-SUMI-M-FDEY PRV-55-SUMI-L-FDEY
+PRV-55-SUMI-GOTT.png,meikyou-shisui,明鏡止水,めいきょうしすい,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,縦書き,PRV-55-SUMI-S-GOTT PRV-55-SUMI-M-GOTT PRV-55-SUMI-L-GOTT
+PRV-55-SUMI-GOTY.png,meikyou-shisui,明鏡止水,めいきょうしすい,墨,#22201e,#efe9dc,極太ゴシック,Dela Gothic One,横書き,PRV-55-SUMI-S-GOTY PRV-55-SUMI-M-GOTY PRV-55-SUMI-L-GOTY
+PRV-55-SHU-MINT.png,meikyou-shisui,明鏡止水,めいきょうしすい,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,縦書き,PRV-55-SHU-S-MINT PRV-55-SHU-M-MINT PRV-55-SHU-L-MINT
+PRV-55-SHU-MINY.png,meikyou-shisui,明鏡止水,めいきょうしすい,朱,#b03a2e,#f7f2e7,明朝,Shippori Mincho,横書き,PRV-55-SHU-S-MINY PRV-55-SHU-M-MINY PRV-55-SHU-L-MINY
+PRV-55-SHU-FDET.png,meikyou-shisui,明鏡止水,めいきょうしすい,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,縦書き,PRV-55-SHU-S-FDET PRV-55-SHU-M-FDET PRV-55-SHU-L-FDET
+PRV-55-SHU-FDEY.png,meikyou-shisui,明鏡止水,めいきょうしすい,朱,#b03a2e,#f7f2e7,筆文字,Yuji Syuku,横書き,PRV-55-SHU-S-FDEY PRV-55-SHU-M-FDEY PRV-55-SHU-L-FDEY
+PRV-55-SHU-GOTT.png,meikyou-shisui,明鏡止水,めいきょうしすい,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,縦書き,PRV-55-SHU-S-GOTT PRV-55-SHU-M-GOTT PRV-55-SHU-L-GOTT
+PRV-55-SHU-GOTY.png,meikyou-shisui,明鏡止水,めいきょうしすい,朱,#b03a2e,#f7f2e7,極太ゴシック,Dela Gothic One,横書き,PRV-55-SHU-S-GOTY PRV-55-SHU-M-GOTY PRV-55-SHU-L-GOTY
